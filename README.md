@@ -1,3 +1,3 @@
-# trendingAPI
-Everything trending at one place!
+# exchangeRate 
+Get currency exchange rate averages.
 
